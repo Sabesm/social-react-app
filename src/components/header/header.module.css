@@ -1,0 +1,8 @@
+.logo {
+  max-width: 20px;
+}
+
+.header {
+  grid-area: h;
+  background-color: green;
+}
